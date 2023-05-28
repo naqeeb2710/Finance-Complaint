@@ -1,0 +1,5 @@
+.vscode
+*.egg-info
+logs
+.env
+*__pycache__/*
